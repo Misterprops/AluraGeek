@@ -59,7 +59,7 @@ function constructor (){
         const contHead = `<thead>
             <tr class="table_cabecera">
                 <th data-th colspan="${colspan}">${array[0]}</th>
-                <th colspan="${colspan}"><a href="index.html?categoria=${array[0]}">Ver mas &#129050;</a></th>
+                <th colspan="${colspan}"><a href="https://misterprops.github.io/AluraGeek/index.html?categoria=${array[0]}">Ver mas &#129050;</a></th>
             </tr>
         </thead>`;
         let contador = 0;
@@ -109,12 +109,12 @@ function constructor (){
 const btnBuscador = document.getElementById("search");
 btnBuscador.addEventListener("click", (e) =>{
     e.preventDefault();
-    location.href=`index.html?search=${document.getElementById("search_input").value}`;
+    location.href=`https://misterprops.github.io/AluraGeek/index.html?search=${document.getElementById("search_input").value}`;
 });
 
 const btnBanner = document.getElementById("banner_btn");
 btnBanner.addEventListener("click",()=>{
-    location.href="index.html?categoria=Figuras";
+    location.href="https://misterprops.github.io/AluraGeek/index.html?categoria=Figuras";
 });
 
 function getParameterByName(name) {

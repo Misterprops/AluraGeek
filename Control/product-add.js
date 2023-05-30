@@ -63,5 +63,5 @@ function getParameterByName(name) {
 const btnBuscador = document.getElementById("search");
 btnBuscador.addEventListener("click", (e) =>{
     e.preventDefault();
-    location.href=`index.html?search=${document.getElementById("search_input").value}`;
+    location.href=`https://misterprops.github.io/AluraGeek/index.html?search=${document.getElementById("search_input").value}`;
 });
