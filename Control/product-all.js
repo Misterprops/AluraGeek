@@ -67,7 +67,7 @@ function deletear(id) {
 }
 
 function actualizar(id) {
-    location.href = `http://127.0.0.1:5500/Pages/agregar.html?select=${id}`;
+    location.href = `https://misterprops.github.io/AluraGeek/agregar.html?select=${id}`;
 }
 
 const btnBuscador = document.getElementById("search");

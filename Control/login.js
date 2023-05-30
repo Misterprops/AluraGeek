@@ -9,9 +9,9 @@ submit.addEventListener("click",(e)=>{
     Services.usuarios().then((usuario)=>{
         usuario.forEach(datos => {
             if(datos.name==user.value && datos.password==password.value){
-                location.href="http://127.0.0.1:5500/Pages/productos.html"
+                location.href="https://misterprops.github.io/AluraGeek/productos.html"
             }else{
-                location.href="http://127.0.0.1:5500/Pages/login.html"
+                location.href="https://misterprops.github.io/AluraGeek/login.html"
             }
         });
     }).catch((e) => alert(e));

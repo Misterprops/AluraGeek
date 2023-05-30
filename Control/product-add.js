@@ -17,7 +17,7 @@ if(param==""){
         if(validator(imageUrl) && validator(categoria) && validator(nombre) && validator(precio)){
             e.preventDefault();
             Services.crear(nombre,imageUrl,"$"+precio,txta.value,categoria).then(() =>{
-                location.href="http://127.0.0.1:5500/Pages/productos.html"
+                location.href="https://misterprops.github.io/AluraGeek/productos.html"
             }).catch((error) => alert(error));
         }
     });
