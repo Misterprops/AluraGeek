@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../Styles/index.css"/>
+    <link rel="stylesheet" href="../Styles/reset.css"/>
+    <title>AluraGeek</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="buscador">
+                <img src="../Media/Logo.png" alt="Logo" class="logo">
+                <p class="nom_logo_1">Alura</p>
+                <p class="nom_logo_2">Geek</p>
+                <form class="buscador_input">
+                    <input type="text" placeholder="¿Que deseas buscar?" id="search_input"/>
+                    <button id="search"><img src="../Media/icons8-search.svg"></button>
+                </form>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="productos">
+            <div data-table class="tabla">
+                
+            </div>
+        </section>
+        <section class="contacto">
+            <div class="contacto_logo">
+                <img src="../Media/Logo.png" alt="Logo">
+                <p class="nom_logo_1">Alura</p>
+                <p class="nom_logo_2">Geek</p>
+            </div>
+            <div class="contacto_lista">
+                <ul class="lista">
+                    <li><a href="*">Quienes somos</a></li>
+                    <li><a href="*">Politica de privacidad</a></li>
+                    <li><a href="*">Programa de fidelidad</a></li>
+                    <li><a href="*">Nuestras tiendas</a></li>
+                    <li><a href="*">Quiero ser franquisiado</a></li>
+                    <li><a href="*">Anuncie aqui</a></li>
+                </ul>
+            </div>
+            <div class="formulario">
+                <p>Hable con nosotros</p>
+                <form class="form" action="mailto:someone@example.com">
+                    <input type="text" name="nombre" placeholder="Nombre" class="form_name" required/>
+                    <textarea name="mensaje" placeholder="Escriba su mensaje" class="form_txta" required></textarea>
+                    <button type="submit" class="form_btn" id="contacto">Enviar mensaje</button>
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>Desarrollado por Andres Rodriguez</p>
+        <p>2023</p>
+    </footer>
+    <script src="../Control/product-all.js" type="module"></script>
+</body>

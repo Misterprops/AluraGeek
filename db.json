@@ -1,0 +1,250 @@
+{
+  "productos": [
+    {
+      "name": "Grand Theft Auto V",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1678296348",
+      "price": "$94725",
+      "description": "Grand Theft Auto V para PC ofrece a los jugadores la opción de explorar el conocido mundo de Los Santos, gozando de resoluciones de hasta 4k y más, así como la oportunidad de experimentar el juego a 60 fotogramas por segundo.",
+      "categoria": "Juegos",
+      "id": "6415ab37-4855-454c-addb-adaa60329a72"
+    },
+    {
+      "name": "Rust",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg?t=1678981332",
+      "price": "$84500",
+      "description": "El único objetivo en Rust es sobrevivir. \nTodo quiere que mueras: la vida silvestre de la isla y otros habitantes, el medio ambiente, otros sobrevivientes. \nHaz lo que sea necesario para durar otra noche.",
+      "categoria": "Juegos",
+      "id": "c8190e2c-934b-42f0-ad39-721507d6e219"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® II",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/header_alt_assets_3.jpg?t=1684446457",
+      "price": "$249999",
+      "description": "Call of Duty®: Modern Warfare® II sumerge a los jugadores en un conflicto global sin precedentes que presenta el regreso de los icónicos Operadores de Task Force 141.",
+      "categoria": "Juegos",
+      "id": "c92560ce-4698-4a5d-b000-8d3af04fd998"
+    },
+    {
+      "name": "EA SPORTS™ FIFA 23",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1811260/header.jpg?t=1682117049",
+      "price": "$83999",
+      "description": "FIFA 23 trae el juego del mundo a la cancha, con la tecnología HyperMotion2, la Copa Mundial de la FIFA masculina y femenina durante la temporada, equipos de clubes femeninos, funciones de juego cruzado y más.",
+      "categoria": "Juegos",
+      "id": "62673f3c-f14c-42c7-86cc-1ec3bcf3a6de"
+    },
+    {
+      "name": "The Outlast Trials",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1304930/header.jpg?t=1684452998",
+      "price": "$70000",
+      "description": "Red Barrels te invita a experimentar un terror alucinante, esta vez con amigos.\nYa sea que pase por las pruebas solo o en equipos, si sobrevive el tiempo suficiente y completa la terapia, Murkoff felizmente lo dejará ir... pero ¿seguirá siendo el mismo?",
+      "categoria": "Juegos",
+      "id": "b494a545-9200-4268-a97b-e7ffffe9f595"
+    },
+    {
+      "name": "Song Of Horror",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1096570/header.jpg?t=1663357548",
+      "price": "$99999",
+      "description": "Una aventura de terror de supervivencia en tercera persona con cámara fija. Teme a la Presencia, una entidad misteriosa contra la que no puedes luchar: mantente alerta, escóndete, respira lentamente...\nExplora lugares malditos donde los espíritus invisibles y las almas perdidas permanecen en una verdadera historia de terror para todas las edades.",
+      "categoria": "Juegos",
+      "id": "739d4c59-04e8-4228-a51a-df7bb7cf9825"
+    },
+    {
+      "name": "Carta de Mordred",
+      "imageUrl": "../media/Mordred.png",
+      "price": "$800000",
+      "description": "Carta de Mordred, caballera de la mesa redonda y asesina del rey Arturo.",
+      "categoria": "Cartas FGO",
+      "id": "f34fb310-0b54-4241-b916-87b227cf4981"
+    },
+    {
+      "name": "Carta de James Moriarty",
+      "imageUrl": "../media/Moriarty.png",
+      "price": "$800000",
+      "description": "Carta de James Moriarty, enemigo de Sherlock Holmes",
+      "categoria": "Cartas FGO",
+      "id": "2a665b0a-4a19-47e1-bd88-4aec343d8138"
+    },
+    {
+      "name": "Carta de Napoleon",
+      "imageUrl": "../media/Napoleon.png",
+      "price": "$800000",
+      "description": "Carta de Napoleón Bonaparte.",
+      "categoria": "Cartas FGO",
+      "id": "82bf39b3-42ac-4357-ae27-22f2c7917f03"
+    },
+    {
+      "name": "Carta de Orion",
+      "imageUrl": "../media/Orion.png",
+      "price": "$1000000",
+      "description": "Carta de Orion el gran cazador.",
+      "categoria": "Cartas FGO",
+      "id": "a6f80bc3-297f-4511-b317-e8907996ea69"
+    },
+    {
+      "name": "Romulo",
+      "imageUrl": "../media/Romulo.png",
+      "price": "$300000",
+      "description": "Carta del fundador de Roma y sú primer emperador, Romulo.",
+      "categoria": "Cartas FGO",
+      "id": "b172e119-2392-4408-83ae-723f11bf4efb"
+    },
+    {
+      "name": "Carta de Barba negra",
+      "imageUrl": "../media/BlackBeard.png",
+      "price": "$100000",
+      "description": "Carta del famoso pirata Barba negra.",
+      "categoria": "Cartas FGO",
+      "id": "08942739-9211-4d73-a6b0-8db585de7d8a"
+    },
+    {
+      "name": "Carta de Medusa",
+      "imageUrl": "../media/Medusa.png",
+      "price": "$300000",
+      "description": "Carta de la famosa petrificadora de la mitología Griega.",
+      "categoria": "Cartas FGO",
+      "id": "32a92c1a-8ac8-4041-b251-a25778f8c3a8"
+    },
+    {
+      "name": "Carta de Quetzalcoatl",
+      "imageUrl": "../media/Quetzalcoatl.png",
+      "price": "$800000",
+      "description": "Carta de la serpiente alada en una version personificada.",
+      "categoria": "Cartas FGO",
+      "id": "e1f06a1b-67bb-463a-99c9-4a9fe28e57c8"
+    },
+    {
+      "name": "Carta de Shakespeare",
+      "imageUrl": "../media/Shakespeare.png",
+      "price": "$100000",
+      "description": "Carta del dramaturgo mas reconocido del mundo.",
+      "categoria": "Cartas FGO",
+      "id": "9d3ae8b2-e0bf-4ef6-9056-296978f09fb9"
+    },
+    {
+      "name": "Carta de Merlin",
+      "imageUrl": "../media/Merlin.png",
+      "price": "$800000",
+      "description": "Carta del mas famoso mago del mundo y mentor del rey Arturo.",
+      "categoria": "Cartas FGO",
+      "id": "9044821c-69f9-499d-87cf-c52e50a89c74"
+    },
+    {
+      "name": "Carta del Dr. Jekyll",
+      "imageUrl": "../media/Jekyll.png",
+      "price": "$300000",
+      "description": "Carta del personaje principal de la famosa novela con su nombre, El doctor Jekyll y el señor Hyde.",
+      "categoria": "Cartas FGO",
+      "id": "62fdc105-ab91-410b-9884-09fa485f438b"
+    },
+    {
+      "name": "Carta de Cleopatra",
+      "imageUrl": "../media/Cleopatra.jpg",
+      "price": "$800000",
+      "description": "Carta de la famosa y ultima gobernante del antiguo Egipto.",
+      "categoria": "Cartas FGO",
+      "id": "169060e0-2209-486f-b671-c201dd353045"
+    },
+    {
+      "name": "Carta de Espartaco",
+      "imageUrl": "../media/Spartacus.png",
+      "price": "$100000",
+      "description": "Carta del historico gladiador.",
+      "categoria": "Cartas FGO",
+      "id": "183bbae2-b5bc-4cf2-af30-ed60f89e1583"
+    },
+    {
+      "name": "Carta del Minotauro",
+      "imageUrl": "../media/Minotauro.png",
+      "price": "$100000",
+      "description": "Carta del unico y reconocido minotauro cuyo nombre es: Asterios.",
+      "categoria": "Cartas FGO",
+      "id": "c438936f-d726-40d1-8c07-7cf00343bf2a"
+    },
+    {
+      "name": "Carta de Juana de Arco",
+      "imageUrl": "../media/Jeanne.png",
+      "price": "$800000",
+      "description": "Carta de la historica y heroica libertadora de Francia durante la guerra de los 100 años.",
+      "categoria": "Cartas FGO",
+      "id": "e7a32b3d-b8cb-4289-a234-63a4767b61da"
+    },
+    {
+      "name": "Carta de Sherlock Holmes",
+      "imageUrl": "../media/Sherlock.png",
+      "price": "$800000",
+      "description": "Carta del detective mas conocido del mundo.",
+      "categoria": "Cartas FGO",
+      "id": "2e191315-c1dd-42c3-bb7b-50133fa67537"
+    },
+    {
+      "name": "Carta de Antonio Salieri",
+      "imageUrl": "../media/Salieri.png",
+      "price": "$300000",
+      "description": "Carta del reconocido rival de Mozard.",
+      "categoria": "Cartas FGO",
+      "id": "55366d36-88ae-4239-9604-5642622f6be4"
+    },
+    {
+      "name": "Carta de Oberon",
+      "imageUrl": "../media/Oberon.png",
+      "price": "$1000000",
+      "description": "Carta del rey de las hadas, Oberon.",
+      "categoria": "Cartas FGO",
+      "id": "708953ca-6870-4a84-9855-5b3adb6da1ba"
+    },
+    {
+      "name": "Duo Bulbasaur-Cubone",
+      "imageUrl": "../media/Bulbasaur-Cubone.png",
+      "price": "$500000",
+      "description": "Combo de figuras de Bulbasaur y Cubone.",
+      "categoria": "Figuras",
+      "id": "1b3120dc-c243-4801-866d-4163dd3f5b5f"
+    },
+    {
+      "name": "Blastoise",
+      "imageUrl": "../media/Blastoise.png",
+      "price": "$300000",
+      "description": "Figura de Blastoise con plataforma incluida.",
+      "categoria": "Figuras",
+      "id": "b0654bca-dd8e-44f7-80de-9486f5324a3d"
+    },
+    {
+      "name": "Duo Larvitar-Cyndaquil",
+      "imageUrl": "../media/Larvitar-Cyndaquil.png",
+      "price": "$350000",
+      "description": "Duo de pokemones: Larvitar y Cyndaquil.",
+      "categoria": "Figuras",
+      "id": "11127671-5a45-4d27-b9e8-7148ae0f4dbf"
+    },
+    {
+      "name": "Figura de Mimikyu",
+      "imageUrl": "../media/Mimikyu.png",
+      "price": "$300000",
+      "description": "Figura del pokemon imitador: Mimikyu.",
+      "categoria": "Figuras",
+      "id": "3e3aef4d-0837-4d40-8681-ed2ebd961fed"
+    },
+    {
+      "name": "Figura Totodile",
+      "imageUrl": "../media/Totodile.png",
+      "price": "$400000",
+      "description": "Figura de Totodile en una esfera con entorno acuartico.",
+      "categoria": "Figuras",
+      "id": "3925c8cd-1e50-498c-acab-3a6711da9ddd"
+    },
+    {
+      "name": "Figura de Evee",
+      "imageUrl": "../media/Evee.png",
+      "price": "$250000",
+      "description": "Figura estandar del pokemon con multiples evoluciones: Evee.",
+      "categoria": "Figuras",
+      "id": "4bfd07f8-61f1-4acb-bb32-e8e282539e7a"
+    }
+  ],
+  "usuarios": [
+    {
+      "name": "aluraGeek",
+      "password": "123456"
+    }
+  ]
+}
